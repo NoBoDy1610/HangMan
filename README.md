@@ -55,7 +55,7 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 
 ## Author
 
-Your full pseudonym or your real name.
+Nikodem Czubak
 
 ## License
 
