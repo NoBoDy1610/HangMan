@@ -25,26 +25,6 @@ Hangman is a word guessing game where the player tries to guess a hidden word by
 
 - Java Development Kit (JDK) installed on your machine.
 
-## Sample Usage
-
-$ javac Hangman.java
-$ java Hangman
-Welcome to the Hangman game!
-Guess a letter: a
-Incorrect guess! Attempts left: 6
-Current word: ____
-
-| |
-|
-|
-|
-|
-|______
-Guess a letter: e
-Correct! You guessed a letter.
-Current word: e__
-...
-
 ## Known Issues
 
 - None at the moment.
